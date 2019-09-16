@@ -21,7 +21,7 @@ class ViewController: UIViewController {
             zoom: zoom
         )
         
-        // MapViewを生成.
+        // MapViewを生成.  
         googleMap = GMSMapView(
             frame: CGRect(
                 x: 0, y: 0,
