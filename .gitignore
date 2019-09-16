@@ -115,3 +115,5 @@ iOSInjectionProject/
 
 # End of https://www.gitignore.io/api/xcode,swift,carthage,cocoapods
 GoogleMapAPISample/APIKey.plist
+
+APIKey.plist
